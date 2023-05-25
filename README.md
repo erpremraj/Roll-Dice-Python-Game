@@ -1,5 +1,5 @@
-# Roll-Dice-Python-Game
-Roll Dice Python Game
+# Roll-Dice-Game-Python
+Roll Dice Game Python
 #importing module for random number generation
 import random
 
